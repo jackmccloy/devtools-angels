@@ -132,3 +132,7 @@ No particular order, please dont read anything into the ordering
 - Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
+
+- Shinji Kim & Jack McCloy - [Shinji](https://twitter.com/shinjikim), [Jack](https://twitter.com/jackmccloy)
+
+  > Shinji's the founder of [Select Star](https://selectstar.com/) and sold her prior company to Akamai. Jack is an engineer who leads the Design Systems team at Amplitude. We focus on b2b SaaS, data tools, and infrastructure / dev tools. Typically we invest $5-15k at a time and can help with fundraising, product strategy, pricing, hiring, and early stage go-to-market.
